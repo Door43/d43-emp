@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[emp:home|Door43 (emp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-emp|d43-emp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-emp/archive/master.zip|d43-emp.zip]]
+
+**Recent Changes**
+{{changes>ns = emp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/emp|Ethnologue data]]
+
